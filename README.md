@@ -5,7 +5,7 @@ This project analyzes the Breast Cancer dataset using machine learning technique
 
 # Project Structure
 The project consists of the following files:
-1. #data_preparation.py#: Loads and preprocesses the dataset.
+1. breast_data.py: Loads and preprocesses the dataset.
 2. `feature_selection.py`: Performs feature selection using `SelectKBest`.
 3. `grid_search.py`: Performs Grid Search CV for hyperparameter tuning.
 4. `ann_model.py`: Trains and evaluates an Artificial Neural Network (ANN) model.
